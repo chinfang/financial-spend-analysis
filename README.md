@@ -7,7 +7,7 @@ dataset contains more than 500,000 records of information from January 2011 unti
 The content inluding: departments, expense types, expense areas, suppliers, spent amount and date of payments.
 
 ### Models and Techniques
-Graph database: [Neo4j](https://neo4j.com)
+Graph database: [Neo4j](https://neo4j.com) \
 Visualization: [Tableau](https://www.tableau.com)
 
 ### Analysis and Results
