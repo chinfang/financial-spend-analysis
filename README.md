@@ -1,4 +1,4 @@
-# Analyse financial spend using Neo4j in British Government spending dataset
+# Financial spend analysis
 The goal of this project is to investigate the time evolution of expenses and the competitivity between suppliers. 
 
 ### Dataset
